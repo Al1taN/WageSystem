@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "OO7MmimZJoZKNubEesaYChfhFhecqm2Lz9CvH+bidy8=",
+  "Source": "Ynacc.Wage",
+  "BasePath": "_content/Ynacc.Wage",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ynacc.Wage\\wwwroot",
+      "Source": "Ynacc.Wage",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\123\\Test\\Ynacc.Test\\Ynacc.Test\\wwwroot\\",
+      "BasePath": "_content/Ynacc.Wage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\123\\Test\\Ynacc.Test\\Ynacc.Test\\wwwroot\\favicon.ico",
+      "SourceId": "Ynacc.Wage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\123\\Test\\Ynacc.Test\\Ynacc.Test\\wwwroot\\",
+      "BasePath": "_content/Ynacc.Wage",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\123\\Test\\Ynacc.Test\\Ynacc.Test\\wwwroot\\Live5MzVb.html",
+      "SourceId": "Ynacc.Wage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\123\\Test\\Ynacc.Test\\Ynacc.Test\\wwwroot\\",
+      "BasePath": "_content/Ynacc.Wage",
+      "RelativePath": "Live5MzVb.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Live5MzVb.html"
+    }
+  ]
+}
